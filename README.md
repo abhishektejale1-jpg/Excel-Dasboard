@@ -2,6 +2,9 @@
 
 # Project Overview
 This project analyzes sales performance using Microsoft Excel and presents key business insights through an interactive dashboard.
+## Dashboard Preview
+
+![Dashboard](https://github.com/abhishektejale1-jpg/Excel-Dasboard/blob/main/Screenshot%202026-06-11%20132834.png?raw=true)
 
 # Skills Used
 - Data Cleaning
